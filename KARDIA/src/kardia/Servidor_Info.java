@@ -2,9 +2,9 @@ package kardia;
 public class Servidor_Info{
     ///
     ///
-    static public String                        Kardia_URL      = "http://www.kardiaupc1.gq/";
-    static public String                        Servidor        = "mysql5012.site4now.net";
-    static public String                        Usuario         = "a625c3_kardia";
+    static public String                        Kardia_URL      = "http://www.kardiaupc.gq/";
+    static public String                        Servidor        = "mysql5006.site4now.net";
+    static public String                        Usuario         = "a657e4_kardiau";
     static public String                        PassWord        = "kardia2020";
     static public String                        DataBase        = "db_" + Usuario;
     ///
